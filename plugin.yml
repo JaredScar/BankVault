@@ -1,0 +1,10 @@
+name: BankVault
+main: com.core.thewolfbadger.bankvault.main.Main
+version: 1.0
+commands:
+  bv:
+    description: Admin command --- Usage /bv del, /bv define
+    usage: /bv
+  bvault:
+      description: Admin command --- Usage /bvault del, /bvault define
+      usage: /bvault

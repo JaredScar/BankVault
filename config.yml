@@ -1,0 +1,79 @@
+################
+### Messages ###
+################
+Messages:
+    NoPermissionForBankVault: '&cYou do not have permission to open that!'
+#################
+### Inventory ###
+#################
+Inventory:
+    Title: ''
+    # Multiples of 9 #
+    Size: 9
+    ###################
+    ### Chest Sizes ###
+    ###################
+    Sizes:
+        1: 9
+        2: 9
+        3: 9
+        4: 9
+        5: 9
+        6: 9
+        7: 9
+        8: 9
+        9: 9
+    ##########################
+    ### Chest DisplayNames ###
+    ##########################
+    ChestNames:
+    - '&7{SLOT} &eElite'
+    - '&7{SLOT} &cMega'
+    - '&7{SLOT} &4Hyped'
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    ########################################
+    ### Chest Lores and Inventory Titles ###
+    ########################################
+    Chests:
+        1:
+            Lores:
+            - '&aUnlocked'
+            InventoryTitle: '&eElite'
+        2:
+            Lores:
+            - '&aUnlocked'
+            InventoryTitle: '&cMega'
+        3:
+            Lores:
+            - '&aUnlocked'
+            InventoryTitle: '&4Hyped'
+        4:
+            Lores:
+            - '&aUnlocked'
+            InventoryTitle: '&74'
+        5:
+             Lores:
+             - '&aUnlocked'
+             InventoryTitle: '&75'
+        6:
+             Lores:
+             - '&aUnlocked'
+             InventoryTitle: '&76'
+        7:
+             Lores:
+             - '&aUnlocked'
+             InventoryTitle: '&77'
+        8:
+             Lores:
+             - '&aUnlocked'
+             InventoryTitle: '&78'
+        9:
+             Lores:
+             - '&aUnlocked'
+             InventoryTitle: '&79'
+Locations: {}
